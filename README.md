@@ -6,4 +6,7 @@ Vehicle company
 RTO office
 Traffic police
 Insurance company
-This app will contain details of insurance of vehicle, pollution card for the vehicle ,information 
+This web portal will contain details of insurance of vehicle, pollution card for the vehicle ,information of
+permits.
+this will provide a special portal for police which helps in reducing thefts.
+Online Number Plate will also be generate through our web portal.
